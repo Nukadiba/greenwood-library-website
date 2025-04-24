@@ -31,3 +31,16 @@
 
 ![](./img/morgan-PR-Merge.png)
 ![](./img/morgan-PR-Merge2.png)
+
+
+
+
+# Jerry's Work: Updating Events Pgae 
+
+## Creating Jerry's Branch update-events
+
+![](./img/Jerry's-Branch-Creation.png)
+
+## jerry edidting events page and staging, commiting and pushing to update events branch
+
+![](./img/jerry-update-events.png)
