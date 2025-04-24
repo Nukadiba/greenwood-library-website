@@ -9,9 +9,16 @@
 
 # Files creation in the main repositoty 
 ![](./img/File_Creation.png)
-## Commiting changes and pushin to the Main repository 
+
+# Commiting changes and pushin to the Main repository
 ![](./img/git_commit&push.png)
 
-## Creating Morgan Branch (add-boo-review) and swicthing into it 
-
+# Creating Morgan Branch (add-book-review) and swicthing into it
 ![](./img/Morgan_branch_creation.png)
+
+
+# Creating book-reviews.html file under add-book-review branch
+![](./img/book_review.png)
+
+# Staging, commiting and pusing the changes to the Morgans's branch (add-book-review)
+![](./img/book_review_commit.png)
