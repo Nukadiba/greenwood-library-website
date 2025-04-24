@@ -44,3 +44,13 @@
 ## jerry edidting events page and staging, commiting and pushing to update events branch
 
 ![](./img/jerry-update-events.png)
+
+## Raising PR for Jerry's Work
+
+![](./img/Jerry-PR.png)
+![](./img/Jerry-PR2.png)
+
+# Merging jerry's work to the main repository 
+
+![](./img/Jerry-Merge.png)
+![](./img/Jerry-Merge2.png)
