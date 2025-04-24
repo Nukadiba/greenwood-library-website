@@ -22,3 +22,12 @@
 
 # Staging, commiting and pusing the changes to the Morgans's branch (add-book-review)
 ![](./img/book_review_commit.png)
+
+# Raising a PR for Mrogan's Work
+![](./img/morgan-PR.png)
+![](./img/morgan-PR2.png)
+
+# Merging Morgan's work into main Repository 
+
+![](./img/morgan-PR-Merge.png)
+![](./img/morgan-PR-Merge2.png)
