@@ -54,3 +54,8 @@
 
 ![](./img/Jerry-Merge.png)
 ![](./img/Jerry-Merge2.png)
+
+
+
+# Merging history with resolution of conflicts 
+![](./img/mergin-graph.png)
