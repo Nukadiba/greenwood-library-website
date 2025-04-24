@@ -9,3 +9,9 @@
 
 # Files creation in the main repositoty 
 ![](./img/File_Creation.png)
+## Commiting changes and pushin to the Main repository 
+![](./img/git_commit&push.png)
+
+## Creating Morgan Branch (add-boo-review) and swicthing into it 
+
+![](./img/Morgan_branch_creation.png)
